@@ -1,0 +1,42 @@
+# Node dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files / secrets
+.env
+.env.local
+.env.development
+.env.production
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Build/output folders
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# WSO2/API security related files
+*.pem
+*.key
+*.crt
+*.jks
+*.p12
+
+# Access tokens or generated secrets
+tokens.txt
+access-token.txt
+secrets.txt
