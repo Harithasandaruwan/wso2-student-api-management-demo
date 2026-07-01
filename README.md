@@ -113,7 +113,7 @@ java version "21.0.11"
 Clone the GitHub repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_LINK>
+git clone https://github.com/Harithasandaruwan/wso2-student-api-management-demo.git
 ```
 
 Go into the project folder:
